@@ -21,6 +21,10 @@ a {
 	margin: 20px;
 	background: #B0C4DE;
 }
+.assignments {
+	display: flex;
+	flex-wrap:wrap;
+}
 .assignment img {
 	width:20em;
 }
