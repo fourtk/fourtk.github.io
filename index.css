@@ -9,6 +9,10 @@
 }
 html {
 	background-color: #FFE4C4;
+	font-family:Open Sans,Arial;
+}
+p {
+	line-height: 1.5;
 }
 a {
 	color:#111;
