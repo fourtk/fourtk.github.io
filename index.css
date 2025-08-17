@@ -1,0 +1,16 @@
+.html {
+  margin: auto;
+  text-align: center;
+  font-size: 32pt;
+}
+.body {
+  background-image: url("./watertower1.png");
+}
+.front {
+  border: 3px;
+  background-color: #fff;
+}
+.back {
+  border: 6px;
+  background-color: #000;
+}
